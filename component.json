@@ -1,0 +1,10 @@
+{
+  "name": "promise",
+  "repo": "rinterest-team/promise",
+  "description": "ES6-compatible promise library. Promise/A+ implementation.",
+  "version": "0.1.0",
+  "keywords": ["promise"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT"
+}
